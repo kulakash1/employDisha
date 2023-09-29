@@ -97,7 +97,7 @@ class Login extends Component {
       <div className="login-container">
         <form className="login-form" onSubmit={this.onSubmitForm}>
           <img
-            src="/logo/logo.jpg"
+            src="/logo/logo.png"
             alt="website logo"
             className="website-logo-login-form"
           />

@@ -17,7 +17,7 @@ const Header = props => {
       <div className="nav-container">
         <Link to="/">
           <img
-            src="/logo/logo.jpg"
+            src="/logo/logo.png"
             alt="website logo"
             className="home-website-logo"
           />
